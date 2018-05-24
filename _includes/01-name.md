@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# This is my name
+## Things I like to do
+#### Cool, huh?
