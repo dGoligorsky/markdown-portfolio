@@ -1,1 +1,1 @@
-![cool photo](http://r.ddmcdn.com/s_f/o_1/cx_462/cy_245/cw_1349/ch_1349/w_720/APL/uploads/2015/06/caturday-shutterstock_149320799.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
