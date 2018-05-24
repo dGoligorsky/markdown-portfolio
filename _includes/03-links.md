@@ -1,1 +1,1 @@
-(My website)[http://davidgoligorsky.com]
+[My website](http://davidgoligorsky.com)
